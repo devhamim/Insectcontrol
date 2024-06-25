@@ -75,7 +75,7 @@ Route::post('/landing/order/store', [landingpageController::class, 'landing_orde
 Route::get('/putul/dress', [landingpageController::class, 'putul_dress'])->name('putul.dress');
 Route::post('/putul/order/store', [landingpageController::class, 'putul_order_store'])->name('putul.order.store');
 // landing fore page
-Route::get('/insect/control', [landingpageController::class, 'insect_control'])->name('insect.control');
+Route::get('/Bed/beg', [landingpageController::class, 'insect_control'])->name('insect.control');
 Route::post('/insect/order/store', [landingpageController::class, 'insect_order_store'])->name('insect.order.store');
 
 
