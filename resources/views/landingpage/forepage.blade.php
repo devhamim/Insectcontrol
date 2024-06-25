@@ -471,7 +471,7 @@
                 <div class="col-lg-12 m-auto">
                     <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                         <div class="text-center text-white">
-                            <h2 class="btn btn-seccess text-white landing_header">২৫০ মিলি ৩৫০ টাকা <br>৫০০ মিলি ৫০০৯০ টা</h2>
+                            <h2 class="btn btn-seccess text-white landing_header">২৫০ মিলি ৩৫০ টাকা <br>৫০০ মিলি ৫৯০ টাকা</h2>
                         </div>
                     </div>
                 </div>
