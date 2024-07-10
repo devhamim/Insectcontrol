@@ -102,7 +102,7 @@
                     <div class="col-lg-12 m-auto">
                         <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                             <div class="text-center text-white">
-                                <h2 class="btn btn-seccess text-white landing_header">ছারপোকা দমনে ১০০% কার্যকরী ও দীর্ঘমেয়াদি সমাধান বেডবাগ  কিলার।</h2>
+                                <h2 class="btn btn-seccess text-white landing_header">ছারপোকা দমনে ১০০% কার্যকরী ও দীর্ঘ মেয়াদি সমাধান বেডবাগ  কিলার।</h2>
                                 <h3 class="text-dark mt-3">মাত্র একবার ব্যবহারে আপনার বাসা হবে ছারপোকা মুক্ত</h3>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        প্রে করার মেশিন বোতলের সাথেই ফ্রি পাবেন।
+                                        স্প্রে করার মেশিন বোতলের সাথেই ফ্রি পাবেন।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
@@ -206,7 +206,7 @@
                     <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                         <div class="text-center text-white">
                             <h2 class="btn btn-seccess text-white landing_header">ছারপোকা  এবং উইপোকা নিয়ন্ত্রণে ১০০% আস্থা রাখুন আমাদের উপর।</h2>
-                            <h3 class="text-dark my-3">হাজার হাজার কাস্তমার  বেডবাগ কিলার ব্যবহার করে  ছারপোকা থেকে মুক্তি পেয়েছে</h3>
+                            <h3 class="text-dark my-3">হাজার হাজার কাস্টমার বেডবাগ কিলার ব্যবহার করে ছারপোকা থেকে মুক্তি পেয়েছে</h3>
                         </div>
                     </div>
                 </div>
@@ -241,125 +241,6 @@
     </section>
     <!-- Product section end -->
 
-{{--
-    <!-- Service section Start -->
-    <div class="pt-5 subject-color" style=" font-weight: 700; font-size:  18px">
-        <div class="container">
-            <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-12">
-                    <section class="relative visa_part">
-                        <div class="row mb-4">
-                            <div class="col-lg-12 m-auto">
-                                <h2 class="text-center mt-3">ভিসার ধারণ ও পেমেন্ট সিস্টেম :</h2>
-                                <h4 class="my-5 text-center">আমরা সাধারানত দুইটি নিয়মে সৌদি আরবের ১ বছরের ভিসা করে
-                                    থাকি।</h4>
-                                <p class="text-center">অপশন: এক. বাংলাদেশ থেকে ইস্যুড (সৌদি পার্সনাল ভিজিট ভিসা)</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12 m-auto">
-                                <div class="service_left">
-                                    <ul class="text-center">
-                                        <li>
-                                            প্রসেস টাইম: ৪০-৪৫ কর্ম দিবস।
-                                        </li>
-                                        <li>
-                                            মোট খরচ: ৬৫,০০০ টাকা
-                                        </li>
-                                        <li>
-                                            নোট: কোন কারণে যদি ভিসা রিজেক্ট হয় সেক্ষত্রে ২৫,০০০ টাকা ডেমারেজ যাবে।
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6 col-12 m-auto">
-                                <div class="grid grid-rows-1 grid-flow-col gap-4 text-end">
-                                    <div class="text-center mb-2 text-white">
-                                        <a href="https://api.whatsapp.com/send?phone={{$setting->first()->number_two}}&text=Hello%20there,%20I%20found%20you%20on%20website!%20i%20would%20like%20to%20talk%20about%20your%20service." class="btn btn-seccess text-white mobile_btn" style="background: #2BB31D" target="_blank">
-                                            <i class="fa-brands fa-whatsapp" style="color: #ffffff;"></i>
-                                            হোয়াটস্যাপ মেসেজ দিন
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-12 m-auto">
-                                <div class="grid grid-rows-1 grid-flow-col gap-4 text-start">
-                                    <div class="text-center mb-2 text-white">
-                                        <a href="#order" class="btn btn-seccess mobile_btn text-white">অর্ডার করতে চাই</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Service section End -->
-    <!-- Service section Start -->
-    <div class=" pt-5 subject-color" style="background: #0088FE24; color: #000; font-weight: 700; font-size:  18px">
-        <div class="container">
-            <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-12">
-                    <section class="relative visa_part">
-                        <div class="row mb-4">
-                            <div class="col-lg-12 m-auto">
-                                <h4 class="text-center">অপশন: দুই. (GCC-গালফ কান্ট্রি) থেকে ইস্যুড (সৌদি মাল্টিপল ভিজিট
-                                    ভিসা)</h4>
-                            </div>
-                        </div>
-                        <div class="row my-5">
-                            <div class="col-lg-12 m-auto">
-                                <div class="service_left">
-                                    <ul class="text-center">
-                                        <li>
-                                            প্রসেস টাইম: ২-৩ কর্ম দিবস।
-                                        </li>
-                                        <li>
-                                            ডকুমেন্ট : পাসপোর্ট ও ছবি।
-                                        </li>
-                                        <li>
-                                            মোট খরচ: ১৭,০০০ অথবা ৩০,০০০ টাকা।
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row mb-4">
-                            <div class="col-lg-12 m-auto">
-                                <p class="my-4 text-center">ভিসা ফি ১৭,০০০ (কোন কারনে ভিসা রিজেক্ট হলে ভিসা ফি নন
-                                    রিফান্ডবেল (তথা ভিসা ফি রিফান্ড পাবেন না। )</p>
-                                <p class="text-center">নোট: এটি কাতার থেকে ইস্যুড ভিসা কোন কারনে যাত্রী না যেতে পারলে
-                                    এর দায়ভার আমরা নিবনা সুতারং বুঝে শুনে Application করবেন।</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6 col-12 m-auto">
-                                <div class="grid grid-rows-1 grid-flow-col gap-4 text-end">
-                                    <div class="text-center mb-2 text-white">
-                                        <a href="https://api.whatsapp.com/send?phone={{$setting->first()->number_two}}&text=Hello%20there,%20I%20found%20you%20on%20website!%20i%20would%20like%20to%20talk%20about%20your%20service." class="btn btn-seccess text-white mobile_btn" style="background: #2BB31D" target="_blank">
-                                            <i class="fa-brands fa-whatsapp" style="color: #ffffff;"></i>
-                                            হোয়াটস্যাপ মেসেজ দিন</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-12 m-auto">
-                                <div class="grid grid-rows-1 grid-flow-col gap-4 text-start">
-                                    <div class="text-center mb-2 text-white">
-                                        <a href="#order" class="btn btn-seccess mobile_btn text-white">অর্ডার করতে চাই</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Service section End --> --}}
-
     <!-- Product section start -->
     <section class="product-section py-3">
         <div class="container">
@@ -367,7 +248,7 @@
                 <div class="col-lg-12 m-auto mb-5">
                     <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                         <div class="text-center text-white">
-                            <h2 class="btn btn-seccess text-white landing_header">আমাদের কাস্তমের রিভিউ।</h2>
+                            <h2 class="btn btn-seccess text-white landing_header">আমাদের সন্মানিত কাস্টমারের কিছু রিভিউ।</h2>
                         </div>
                     </div>
                 </div>
@@ -421,7 +302,7 @@
                                 <ul>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        ব্যবহারের আগে বোতলটি ভালোভাবে তাকিয়ে নিন।
+                                        ব্যবহারের আগে বোতলটি ভালোভাবে ঝাকিয়ে নিন।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
@@ -477,8 +358,8 @@
                 </div>
                 <div class="col-lg-6 m-auto mt-3">
                     <div class="text-center">
-                        <h5>ঢাকার ভিতরে ৬০ টাকা।</h5>
-                        <h5>ঢাকার বাহিরে ১০০ টাকা।</h5>
+                        <h5>ডেলিভারি চার্জ ঢাকার ভিতরে ৬০ টাকা।</h5>
+                        <h5>ডেলিভারি চার্জ ঢাকার বাহিরে ১০০ টাকা।</h5>
                         <h5>ক্যাশ অন ডেলিভারি।</h5>
                         <h5>প্রোডাক্ট পেয়ে পরিশোধ করুন।</h5>
                     </div>
