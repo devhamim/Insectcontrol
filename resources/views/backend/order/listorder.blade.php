@@ -101,15 +101,20 @@
                                         </td>
                                         <td>{{ $sl+1 }}</td>
                                         <td>
-                                            @foreach ($order->rel_to_orderpro->take(1) as $OrderProduct)
-                                                @if ($OrderProduct != null)
-                                                    @if ($OrderProduct->rel_to_attribute != null)
-                                                        <img width="100" src="{{ asset('uploads/product') }}/{{ $OrderProduct->rel_to_attribute->image }}" alt="Image" />
-                                                    @elseif ($OrderProduct->rel_to_pro)
-                                                        <img width="100" src="{{ asset('uploads/product') }}/{{ $OrderProduct->rel_to_pro->image }}" alt="Image" />
+                                            @if ($order->landing == 1)
+                                                <img width="100" src="{{ asset('frontend/assets/land_img.jpg') }}" alt="Image" />
+                                            @else
+                                                @foreach ($order->rel_to_orderpro->take(1) as $OrderProduct)
+                                                    @if ($OrderProduct != null)
+                                                        @if ($OrderProduct->rel_to_attribute != null)
+                                                            <img width="100" src="{{ asset('uploads/product') }}/{{ $OrderProduct->rel_to_attribute->image }}" alt="Image" />
+                                                        @elseif ($OrderProduct->rel_to_pro)
+                                                            <img width="100" src="{{ asset('uploads/product') }}/{{ $OrderProduct->rel_to_pro->image }}" alt="Image" />
+                                                        @endif
                                                     @endif
-                                                @endif
-                                            @endforeach
+                                                @endforeach
+                                            @endif
+
                                         </td>
                                         <td>{{ $order->order_id }}</td>
                                         <td>

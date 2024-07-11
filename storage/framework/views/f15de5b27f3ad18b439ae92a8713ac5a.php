@@ -104,8 +104,8 @@
                     <div class="col-lg-12 m-auto">
                         <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                             <div class="text-center text-white">
-                                <h2 class="btn btn-seccess text-white landing_header">ছারপোকা দমনে ১০০% কার্যকরী ও দীর্ঘমেয়াদি সমাধান বেডবাগ  কিলার।</h2>
-                                <h3 class="text-dark mt-3">মাত্র একবার ব্যবহারে আপনার বাসা হবে ছারপোকা মুক্ত</h3>
+                                <h2 class="btn btn-seccess text-white landing_header">ছারপোকা দমনে ১০০% কার্যকরী ও দীর্ঘ মেয়াদি সমাধান বেডবাগ  কিলার।</h2>
+                                <h3 class="text-dark mt-3">মাত্র একবার ব্যবহারে আপনার বাসা হবে ছারপোকা মুক্ত।</h3>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                     <div class="col-lg-12 m-auto">
                         <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                             <div class="text-center text-white">
-                                <h2 class="btn btn-seccess text-white landing_header">বেডবাগ  কিলার সুবিধা  সমূহ।</h2>
+                                <h2 class="btn btn-seccess text-white landing_header">বেডবাগ কিলার এর সুবিধা  সমূহ।</h2>
                             </div>
                         </div>
                     </div>
@@ -152,11 +152,11 @@
                                 <ul>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        বেড বাগ কিলার  সুবিধা সমূহ কিলার রেডি টু স্প্রে তাই সহজে ব্যবহার করা যায়।
+                                        বেড বাগ কিলার  রেডি টু স্প্রে তাই সহজে ব্যবহার করা যায়।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        ছারপোকা দমনের জন্য একটি খুবই কার্য করি প্রোডাক্ট।
+                                        ছারপোকা দমনের জন্য এটি খুবই কার্যকরী প্রোডাক্ট।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
@@ -164,7 +164,7 @@
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        প্রে করার মেশিন বোতলের সাথেই ফ্রি পাবেন।
+                                        স্প্রে করার মেশিন বোতলের সাথেই ফ্রি পাবেন।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
@@ -208,7 +208,7 @@
                     <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                         <div class="text-center text-white">
                             <h2 class="btn btn-seccess text-white landing_header">ছারপোকা  এবং উইপোকা নিয়ন্ত্রণে ১০০% আস্থা রাখুন আমাদের উপর।</h2>
-                            <h3 class="text-dark my-3">হাজার হাজার কাস্তমার  বেডবাগ কিলার ব্যবহার করে  ছারপোকা থেকে মুক্তি পেয়েছে</h3>
+                            <h3 class="text-dark my-3">হাজার হাজার কাস্টমার বেডবাগ কিলার ব্যবহার করে ছারপোকা থেকে মুক্তি পেয়েছে।</h3>
                         </div>
                     </div>
                 </div>
@@ -243,8 +243,6 @@
     </section>
     <!-- Product section end -->
 
-
-
     <!-- Product section start -->
     <section class="product-section py-3">
         <div class="container">
@@ -252,7 +250,7 @@
                 <div class="col-lg-12 m-auto mb-5">
                     <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                         <div class="text-center text-white">
-                            <h2 class="btn btn-seccess text-white landing_header">আমাদের কাস্তমের রিভিউ।</h2>
+                            <h2 class="btn btn-seccess text-white landing_header">আমাদের সম্মানিত কাস্টমারদের রিভিউ।</h2>
                         </div>
                     </div>
                 </div>
@@ -296,7 +294,7 @@
                     <div class="col-lg-12 m-auto">
                         <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                             <div class="text-center text-white">
-                                <h2 class="btn btn-seccess text-white landing_header">ব্যবহারের বিধি।</h2>
+                                <h2 class="btn btn-seccess text-white landing_header">ব্যবহার বিধি</h2>
                             </div>
                         </div>
                     </div>
@@ -306,7 +304,7 @@
                                 <ul>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        ব্যবহারের আগে বোতলটি ভালোভাবে তাকিয়ে নিন।
+                                        ব্যবহারের আগে বোতলটি ভালোভাবে ঝাকিয়ে নিন।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
@@ -348,24 +346,21 @@
     <section class="news-letter-section py-5" style="color: #000; font-weight: 700;">
         <div class="container form_border">
             <div class="row pb-14">
-                <div class="col-lg-12 visa_part">
-                    <div class="section-title text-center">
-                        <h2 class="my-4">প্রয়োজনে কল করুন : <?php echo e($setting->first()->number_two); ?></h2>
-                    </div>
-                </div>
+                
                 <div class="col-lg-12 m-auto">
                     <div class="grid grid-rows-1 grid-flow-col gap-4 text-center">
                         <div class="text-center text-white">
-                            <h2 class="btn btn-seccess text-white landing_header">২৫০ মিলি ৩৫০ টাকা <br>৫০০ মিলি ৫০০৯০ টা</h2>
+                            <h2 class="btn btn-seccess text-white landing_header">২৫০ মিলি ৩৫০ টাকা <br>৫০০ মিলি ৫৯০ টাকা</h2>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 m-auto mt-3">
                     <div class="text-center">
-                        <h5>ঢাকার ভিতরে ৬০ টাকা।</h5>
-                        <h5>ঢাকার বাহিরে ১০০ টাকা।</h5>
-                        <h5>ক্যাশ অন ডেলিভারি।</h5>
-                        <h5>প্রোডাক্ট পেয়ে পরিশোধ করুন।</h5>
+                        <h4>ডেলিভারি চার্জঃ</h4>
+                        <h4>ঢাকার ভিতরে ৬০ টাকা।</h4>
+                        <h4>ঢাকার বাহিরে ১০০ টাকা।</h4>
+                        <h3 class="text-danger">ক্যাশ অন ডেলিভারি। প্রোডাক্ট হাতে পেয়ে টাকা পরিশোধ করুন।</h3>
+                        
                     </div>
                 </div>
             </div>
@@ -381,22 +376,22 @@
                                     <div class="col-lg-6">
                                         <!-- Product Row 1 -->
                                         <div class="product_box">
-                                            <input type="radio" id="product_1" name="radio_btn" value="1" data-product-name="বেড বাগ কিলার ২৫০ মিলি" data-quantity="1" data-price="350" data-image="<?php echo e(asset('landingpage/images/product/i-1.jpg')); ?>" checked="checked">
+                                            <input type="radio" id="product_1" name="radio_btn" value="1" data-product-name="বেড বাগ কিলার ২৫০ মিলি"  data-price="350" data-image="<?php echo e(asset('landingpage/images/product/i-1.jpg')); ?>" checked="checked">
                                             <img src="<?php echo e(asset('landingpage/images/product/i-1.jpg')); ?>" alt="" width="80" height="80">
                                             <div class="box-content">
                                                 <label for="product_1">বেড বাগ কিলার ২৫০ মিলি</label>
-                                                <label for="product_1">x ৩৫০৳</label>
+                                                <label for="product_1"> ৩৫০৳</label>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <!-- Product Row 2 -->
                                         <div class="product_box">
-                                            <input type="radio" name="radio_btn" id="product_2" value="2" data-product-name="বেড বাগ কিলার ৫০০ মিলি" data-quantity="1" data-price="590" data-image="<?php echo e(asset('landingpage/images/product/i-2.jpg')); ?>">
+                                            <input type="radio" name="radio_btn" id="product_2" value="2" data-product-name="বেড বাগ কিলার ৫০০ মিলি"  data-price="590" data-image="<?php echo e(asset('landingpage/images/product/i-2.jpg')); ?>">
                                             <img src="<?php echo e(asset('landingpage/images/product/i-2.jpg')); ?>" alt="" width="80" height="80">
                                             <div class="box-content">
                                                 <label for="product_2">বেড বাগ কিলার ৫০০ মিলি</label>
-                                                <label for="product_2">x ৫৯০৳</label>
+                                                <label for="product_2"> ৫৯০৳</label>
                                             </div>
                                         </div>
                                     </div>
@@ -427,7 +422,7 @@ unset($__errorArgs, $__bag); ?>
                                         <label class="form-label" for="">আপনার ঠিকানা লিখুন : <span
                                                 class="text-danger">*</span></label>
                                         <input type="text" name="address" class="form-control"
-                                            placeholder="গ্রাম/মহল্লা, থানা, জেলা" required>
+                                            placeholder="আপনার সম্পন্ন ঠিকানা টি লিখুন" required>
                                         <?php $__errorArgs = ['address'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');
 if ($__bag->has($__errorArgs[0])) :
@@ -515,6 +510,8 @@ unset($__errorArgs, $__bag); ?>
                                                                 <strong class="product-quantity"></strong>
                                                             </td>
                                                             <td class="product-total">
+                                                                <input type="hidden" name="price"
+                                                                    value="350" id="">
                                                                 <span class="woocommerce-Price-amount amount"><bdi>350<span
                                                                             class="woocommerce-Price-currencySymbol">৳&nbsp;</span></bdi></span>
                                                             </td>
@@ -522,6 +519,12 @@ unset($__errorArgs, $__bag); ?>
                                                         <!-- Add more product rows as needed -->
                                                     </tbody>
                                                     <tfoot>
+                                                        <tr class="cart-subtotal">
+                                                            <th>Quantity</th>
+                                                            <td>
+                                                                <input style="width: 50%" type="number" id="quantityInput" name="quantity" class="form-control" value="1" min="1">
+                                                            </td>
+                                                        </tr>
                                                         <tr class="cart-subtotal">
                                                             <th>Subtotal</th>
                                                             <td>
@@ -531,6 +534,7 @@ unset($__errorArgs, $__bag); ?>
                                                                             class="woocommerce-Price-currencySymbol">৳&nbsp;</span></bdi></span>
                                                             </td>
                                                         </tr>
+
                                                         <!-- Shipping Options -->
                                                         <tr class="woocommerce-shipping-totals shipping">
                                                             <th>Shipping</th>
@@ -637,6 +641,15 @@ unset($__errorArgs, $__bag); ?>
                     updateOrderSection(productName, quantity, price, imageUrl);
                 });
 
+                $('#quantityInput').on('input', function() {
+                    var quantity = parseInt($(this).val());
+                    var price = parseFloat($('.product-total input[name="price"]').val());
+                    var subtotal = quantity * price;
+                    $('.cart-subtotal .woocommerce-Price-amount').html(`<bdi>${subtotal}<span class="woocommerce-Price-currencySymbol">৳&nbsp;</span></bdi>`);
+                    $('.cart-subtotal input[name="sub_total"]').val(subtotal);
+                    updateTotal();
+                });
+
                 function updateOrderSection(productName, quantity, price, imageUrl) {
                 $('.woocommerce-checkout-review-order-table tbody').html(`
                     <tr class="cart_item">
@@ -645,10 +658,11 @@ unset($__errorArgs, $__bag); ?>
                                 <div class="wcf-product-thumbnail">
                                     <img width="80" height="80" src="${imageUrl}" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="">
                                 </div>
-                                <div class="wcf-product-name">${productName} x <strong class="product-quantity">${quantity}</strong></div>
+                                <div class="wcf-product-name">${productName}</div>
                             </div>
                         </td>
                         <td class="product-total">
+                            <input type="hidden" name="price" value="${price}" id="">
                             <span class="woocommerce-Price-amount amount"><bdi>${price}<span class="woocommerce-Price-currencySymbol">৳&nbsp;</span></bdi></span>
                         </td>
                     </tr>
@@ -662,6 +676,7 @@ unset($__errorArgs, $__bag); ?>
             });
 
             function updateTotal() {
+
                     var subTotal = parseInt($('input[name="sub_total"]').val());
                     var shippingCost = parseInt($('input[name="shipping_cost"]:checked').val());
                     var total = subTotal + shippingCost;
@@ -681,6 +696,9 @@ unset($__errorArgs, $__bag); ?>
                 });
             });
         </script>
+
+        
+
 
         <script type="text/javascript">
             $('.autoplay').slick({

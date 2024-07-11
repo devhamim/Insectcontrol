@@ -92,41 +92,7 @@
                     </a>
                 </li>
                 <!-- Couriar API list -->
-                <li>
-                    <a class="sidenav-item-link" href="<?php echo e(route('commingsoon')); ?>">
-                        <i class="mdi mdi-car"></i>
-                        <span class="nav-text">Couriar API</span>
-                    </a>
-                </li>
-                <hr>
-                <!-- Expence list -->
-                <li>
-                    <a class="sidenav-item-link" href="<?php echo e(route('commingsoon')); ?>">
-                        <i class="mdi mdi-account-group"></i>
-                        <span class="nav-text">Expence</span>
-                    </a>
-                </li>
-                <!-- Purces list -->
-                <li>
-                    <a class="sidenav-item-link" href="<?php echo e(route('commingsoon')); ?>">
-                        <i class="mdi mdi-account-group"></i>
-                        <span class="nav-text">Purces</span>
-                    </a>
-                </li>
-                <!-- Markating Expence list -->
-                <li>
-                    <a class="sidenav-item-link" href="<?php echo e(route('commingsoon')); ?>">
-                        <i class="mdi mdi-account-group"></i>
-                        <span class="nav-text">Markating Expence</span>
-                    </a>
-                </li>
-                <!-- Officel Expence list -->
-                <li>
-                    <a class="sidenav-item-link" href="<?php echo e(route('commingsoon')); ?>">
-                        <i class="mdi mdi-account-group"></i>
-                        <span class="nav-text">Officel Expence</span>
-                    </a>
-                </li>
+                
                 <hr>
                 <!-- Markating setting list -->
                 <li>
@@ -136,12 +102,7 @@
                     </a>
                 </li>
                 <!-- Landing Page list -->
-                <li>
-                    <a class="sidenav-item-link" href="<?php echo e(route('commingsoon')); ?>">
-                        <i class="mdi mdi-book-open"></i>
-                        <span class="nav-text">Landing Page</span>
-                    </a>
-                </li>
+                
                 <!-- Visitor Count list -->
                 <li>
                     <a class="sidenav-item-link" href="<?php echo e(route('visitors')); ?>">

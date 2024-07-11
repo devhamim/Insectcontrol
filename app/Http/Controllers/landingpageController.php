@@ -256,12 +256,12 @@ class landingpageController extends Controller
                 if($request->radio_btn == 1){
                     $price = 350;
                     $product_name = 'বেড বাগ কিলার ২৫০ মিলি';
-                    $quantity = 1;
+                    $quantity = $request->quantity;
                 }
                 if($request->radio_btn == 2){
                     $price = 590;
                     $product_name = 'বেড বাগ কিলার ৫০০ মিলি';
-                    $quantity = 1;
+                    $quantity = $request->quantity;
                 }
                 $subtotal = $price*$quantity;
                 Order::insert([
