@@ -112,7 +112,7 @@
                     <div class="row mt-3">
                         <div class="col-lg-9 m-auto text-white">
                             <div class="text-center">
-                                <iframe width="100%" height="450" src="https://www.youtube.com/embed/jViLEqnUbFM?si=Ron2RSTWJsCvJxCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                <iframe width="100%" height="450px" src="https://www.youtube.com/embed/RY_CjVlBLBU?si=eY_syeqsF-cAa4Uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -267,6 +267,24 @@
                         </div>
                         <div class="px-3">
                             <img src="<?php echo e(asset('landingpage/images/product/i-44.jpg')); ?>" alt="">
+                        </div>
+                        <div class="px-3">
+                            <img src="<?php echo e(asset('landingpage/images/product/i-55.jpg')); ?>" alt="">
+                        </div>
+                        <div class="px-3">
+                            <img src="<?php echo e(asset('landingpage/images/product/i-66.jpg')); ?>" alt="">
+                        </div>
+                        <div class="px-3">
+                            <img src="<?php echo e(asset('landingpage/images/product/i-77.jpg')); ?>" alt="">
+                        </div>
+                        <div class="px-3">
+                            <img src="<?php echo e(asset('landingpage/images/product/i-88.jpg')); ?>" alt="">
+                        </div>
+                        <div class="px-3">
+                            <img src="<?php echo e(asset('landingpage/images/product/i-99.jpg')); ?>" alt="">
+                        </div>
+                        <div class="px-3">
+                            <img src="<?php echo e(asset('landingpage/images/product/i-10.jpg')); ?>" alt="">
                         </div>
                     </div>
 
@@ -496,10 +514,10 @@ unset($__errorArgs, $__bag); ?>
                                                             <td class="product-name">
                                                                 <div class="wcf-product-image">
                                                                     <div class="wcf-product-thumbnail">
-                                                                        <img width="80" height="80"
-                                                                            src="<?php echo e(asset('landingpage/images/product/i-1.jpg')); ?>"
+                                                                        <img width="80" height="80" src="<?php echo e(asset('landingpage/images/product/i-1.jpg')); ?>"
                                                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                                             alt="">
+
                                                                         <a href="#" rel="nofollow"
                                                                             class="wcf-remove-product cartflows-icon cartflows-circle-cross"
                                                                             data-id="138"
