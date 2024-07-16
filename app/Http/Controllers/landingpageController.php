@@ -280,6 +280,7 @@ class landingpageController extends Controller
                     'price' => $price,
                     'created_at' => Carbon::now(),
                 ]);
-                return back()->with("success","Order has been placed successfully");
+                return redirect()->route('order.success')->with('order_id', $order_id);
+                // return back()->with("success","Order has been placed successfully");
     }
 }
