@@ -378,7 +378,7 @@
                         <h4>ঢাকার ভিতরে ৬০ টাকা।</h4>
                         <h4>ঢাকার বাহিরে ১০০ টাকা।</h4>
                         <h2 class="text-success fw-bold mt-2" >ক্যাশ অন ডেলিভারি।</h2>
-                        <h3 class="text-success ">প্রোডাক্ট হাতে পেয়ে টাকা পরিশোধ করুন।</h3>
+                        <h3 class="text-success fw-bold">প্রোডাক্ট হাতে পেয়ে টাকা পরিশোধ করুন।</h3>
                         
                     </div>
                 </div>
@@ -441,7 +441,7 @@ unset($__errorArgs, $__bag); ?>
                                         <label class="form-label" for="">আপনার ঠিকানা লিখুন : <span
                                                 class="text-danger">*</span></label>
                                         <input type="text" name="address" class="form-control"
-                                            placeholder="আপনার সম্পন্ন ঠিকানা টি লিখুন" required>
+                                            placeholder="আপনার সম্পূর্ণ ঠিকানা টি লিখুন" required>
                                         <?php $__errorArgs = ['address'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');
 if ($__bag->has($__errorArgs[0])) :

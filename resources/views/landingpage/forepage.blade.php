@@ -436,7 +436,7 @@
                                         <label class="form-label" for="">আপনার ঠিকানা লিখুন : <span
                                                 class="text-danger">*</span></label>
                                         <input type="text" name="address" class="form-control"
-                                            placeholder="আপনার সম্পন্ন ঠিকানা টি লিখুন" required>
+                                            placeholder="আপনার সম্পূর্ণ ঠিকানা টি লিখুন" required>
                                         @error('address')
                                             <strong class="text-danger">{{ $message }}</strong>
                                         @enderror
