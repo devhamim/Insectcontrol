@@ -377,8 +377,8 @@
                         <h4>ডেলিভারি চার্জঃ</h4>
                         <h4>ঢাকার ভিতরে ৬০ টাকা।</h4>
                         <h4>ঢাকার বাহিরে ১০০ টাকা।</h4>
-                        <h2 class="text-success fw-bold mt-2" >ক্যাশ অন ডেলিভারি।</h2>
-                        <h3 class="text-success fw-bold">প্রোডাক্ট হাতে পেয়ে টাকা পরিশোধ করুন।</h3>
+                        <h2 class="text-danger fw-bold mt-2" >ক্যাশ অন ডেলিভারি।</h2>
+                        <h3 class="text-danger fw-bold">প্রোডাক্ট হাতে পেয়ে টাকা পরিশোধ করুন।</h3>
                         
                     </div>
                 </div>
