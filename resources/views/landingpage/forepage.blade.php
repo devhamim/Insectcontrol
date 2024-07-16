@@ -158,11 +158,11 @@
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        মাত্র ৩ থেকে ৪ ঘন্টা পরে রুম ব্যবহার করা যাবে।
+                                        স্প্রে করার ৩ থেকে ৪ ঘন্টা পরেই রুম ব্যবহার করা যাবে।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        স্প্রে করার মেশিন বোতলের সাথেই ফ্রি পাবেন।
+                                        স্প্রে করার মেশিন বোতলের সাথে ফ্রি পাবেন।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
@@ -328,11 +328,11 @@
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        রুমের জানালা খোলা রাখুন এবং ফ্যান ছেড়ে দিন।
+                                        স্প্রে করার পর রুমের জানালা খোলা রাখুন এবং ফ্যান ছেড়ে দিন।
                                     </li>
                                     <li>
                                         <img width="16px" draggable="false" role="img" class="emoji" alt="✅" src="https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg">
-                                        তিন থেকে চার ঘন্টা পর রুম ব্যবহার করতে পারবে।
+                                        তিন থেকে চার ঘন্টা পর রুম ব্যবহার করতে পারবেন।
                                     </li>
                                 </ul>
                             </div>
@@ -379,7 +379,8 @@
                         <h4>ডেলিভারি চার্জঃ</h4>
                         <h4>ঢাকার ভিতরে ৬০ টাকা।</h4>
                         <h4>ঢাকার বাহিরে ১০০ টাকা।</h4>
-                        <h3 class="text-danger">ক্যাশ অন ডেলিভারি। প্রোডাক্ট হাতে পেয়ে টাকা পরিশোধ করুন।</h3>
+                        <h2 class="text-success fw-bold mt-2" >ক্যাশ অন ডেলিভারি।</h2>
+                        <h3 class="text-success fw-bold">প্রোডাক্ট হাতে পেয়ে টাকা পরিশোধ করুন।</h3>
                         {{-- <h5>প্রোডাক্ট পেয়ে পরিশোধ করুন।</h5> --}}
                     </div>
                 </div>
