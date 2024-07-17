@@ -157,9 +157,7 @@
                                                         <td class="text-center">
                                                             <?php echo e(number_format($product->price)); ?> Tk
                                                         </td>
-                                                        <td class="text-right">
-                                                            <input type="hidden" name="product_price" value="<?php echo e($product->price); ?>">
-                                                            <?php echo e(number_format($product->price)); ?> Tk
+                                                        <td class="text-right"><?php echo e(number_format(($product->price) * $product->quantity, 2)); ?> Tk
                                                         </td>
                                                     </tr>
                                                 <?php endif; ?>

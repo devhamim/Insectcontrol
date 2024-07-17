@@ -153,9 +153,7 @@
                                                         <td class="text-center">
                                                             {{ number_format($product->price) }} Tk
                                                         </td>
-                                                        <td class="text-right">
-                                                            <input type="hidden" name="product_price" value="{{ $product->price }}">
-                                                            {{ number_format($product->price) }} Tk
+                                                        <td class="text-right">{{ number_format(($product->price) * $product->quantity, 2) }} Tk
                                                         </td>
                                                     </tr>
                                                 @endif
