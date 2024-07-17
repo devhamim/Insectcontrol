@@ -345,25 +345,7 @@
         });
     });
 </script>
-{{-- <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        var checkboxes = document.querySelectorAll('.sub_chk');
-        let checked_value = document.getElementById('all_ord_id');
 
-        checkboxes.forEach(function(checkbox) {
-            checkbox.addEventListener('change', function() {
-                var checkedIDs = [];
-                var checkedCheckboxes = document.querySelectorAll('.sub_chk:checked');
-
-                checkedCheckboxes.forEach(function(checkedCheckbox) {
-                    checkedIDs.push(checkedCheckbox.getAttribute('data-id'));
-                });
-
-                checked_value.value = checkedIDs.join(', ');
-            });
-        });
-    });
-</script> --}}
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         var checkboxes = document.querySelectorAll('.sub_chk');

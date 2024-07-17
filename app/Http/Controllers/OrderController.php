@@ -134,7 +134,49 @@ class OrderController extends Controller
      */
     public function update(Request $request, string $id)
     {
-        //
+        // Update Billingdetails
+        if ($request->bllingdetails_id) {
+            $billingdetails = Billingdetails::where('id', $request->bllingdetails_id)->first();
+            $billingRules = [
+                'name' => 'required',
+                'district' => 'required',
+                'address' => 'required',
+                'mobile' => 'required',
+                'note' => 'nullable',
+            ];
+            $validatedData = $request->validate($billingRules);
+            $billingdetails->update($validatedData);
+        }
+
+        // Update Order
+        if ($request->orders_id) {
+            $order = Order::where('id', $request->orders_id)->first();
+            $subtotal = $request->product_price*$request->quantity;
+            $subdelivary = $subtotal+$request->delivery_charge;
+            $orderRules = [
+                'color' => 'nullable',
+                'discount' => 'required',
+                'delivery_charge' => 'required',
+            ];
+            $validatedOrder = $request->validate($orderRules);
+
+            $validatedOrder['sub_total'] = $subtotal;
+            $validatedOrder['total'] = $subdelivary-$request->discount;
+
+            $order->update($validatedOrder);
+        }
+
+        // Update OrderProduct
+        if ($request->orderproduct_id) {
+            $orderProduct = OrderProduct::where('id', $request->orderproduct_id)->first();
+            $orderProductRules = [
+                'quantity' => 'nullable',
+            ];
+            $validatedOrderProduct = $request->validate($orderProductRules);
+            $orderProduct->update($validatedOrderProduct);
+        }
+
+        return back()->with('success', 'Update successfully.');
     }
 
     /**
