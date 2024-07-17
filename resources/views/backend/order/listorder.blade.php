@@ -69,7 +69,63 @@
             </div>
         </div>
     </div>
-
+ <!-- Top Statistics -->
+ <div class="row">
+    <div class="col-xl-2 col-sm-6 p-b-15 lbl-card cursor-pointer">
+        <div id="total-orders" class="card card-mini dash-card card-1">
+            <div class="card-body">
+                <h2 class="mb-1">{{ $total_orders }}</h2>
+                <p>Total Order</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 p-b-15 lbl-card cursor-pointer">
+        <div id="pending-orders" class="card card-mini dash-card card-2">
+            <div class="card-body">
+                <h2 class="mb-1">{{ $pending_orders }}</h2>
+                <p>Total Pending</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 p-b-15 lbl-card cursor-pointer">
+        <div id="confirm-orders" class="card card-mini dash-card card-3">
+            <div class="card-body">
+                <h2 class="mb-1">{{ $confirm_orders }}</h2>
+                <p>Total Confirm</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 p-b-15 lbl-card cursor-pointer">
+        <div id="hold-orders" class="card card-mini dash-card card-3">
+            <div class="card-body">
+                <h2 class="mb-1">{{ $hold_orders }}</h2>
+                <p>Total Hold</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 p-b-15 lbl-card cursor-pointer">
+        <div id="cancel-orders" class="card card-mini dash-card card-3">
+            <div class="card-body">
+                <h2 class="mb-1">{{ $cancel_orders }}</h2>
+                <p>Total Cancel</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 p-b-15 lbl-card">
+        <div class="card card-mini dash-card card-4">
+            <div class="card-body">
+                @php
+                    $total_revineu = 0;
+                    foreach ($total_completed as $completed) {
+                        $total_revineu += $completed->total;
+                    }
+                @endphp
+                <h2 class="mb-1">{{ number_format($total_revineu) }} Tk</h2>
+                <p>Revenue</p>
+            </div>
+        </div>
+    </div>
+</div>
     <div class="row">
         <div class="col-12">
             <div class="ec-vendor-list card card-default">
@@ -246,6 +302,29 @@
     });
 </script>
 @endsection
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.getElementById('total-orders').addEventListener('click', function() {
+            window.location.href = '{{ url("admin/orders") }}';
+        });
+
+        document.getElementById('pending-orders').addEventListener('click', function() {
+            window.location.href = '{{ url("admin/orders") }}?status=pending';
+        });
+
+        document.getElementById('confirm-orders').addEventListener('click', function() {
+            window.location.href = '{{ url("admin/orders") }}?status=confirm';
+        });
+
+        document.getElementById('hold-orders').addEventListener('click', function() {
+            window.location.href = '{{ url("admin/orders") }}?status=hold';
+        });
+
+        document.getElementById('cancel-orders').addEventListener('click', function() {
+            window.location.href = '{{ url("admin/orders") }}?status=cancel';
+        });
+    });
+</script>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
